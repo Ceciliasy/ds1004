@@ -1,0 +1,20 @@
+hb1500
+*   601cebf 9th commit (4th on master).
+|\
+| *   1c5c117 7th commit (3rd on branch1).
+| |\
+| | * 64499b8 3rd commit (1st on branch2).
+* | |   7224335 8th commit (4th on master).
+|\ \ \
+| |/ /
+| * |   a5c3b60 6th commit (2ed on branch2).
+| |\ \
+| | |/
+| |/|
+| * | 1c4f767 2nd commit (1st on branch1).
+* | | f306d24 5th commit (3rd on master).
+| |/  
+|/|
+* | beb511b 4th commit (2nd on master).
+|/
+* 35ef120 1st commit (1st on master).
